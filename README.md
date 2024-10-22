@@ -15,4 +15,5 @@ A contiuación la nomenclatura utilizada:
 ## Créditos
 
  **Alumno:** Juan Israel Tacuri Jaramillo
+ 
  **Periodo Académico:** Octubre 2024 - Febrero 2025
