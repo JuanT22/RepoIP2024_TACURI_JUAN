@@ -5,8 +5,8 @@ public class CalculoIMC1 {
 
 		String nombre;
 		int pesoKg;
-		double estaturaM;
-		double iMC; 
+		float estaturaM;
+		float iMC; 
 
 		System.out.println("CalculoIMC");
 		System.out.println("==========");
@@ -16,8 +16,8 @@ public class CalculoIMC1 {
  		System.out.print("Ingrese su peso en Kg: ");
  		pesoKg = scanner.nextInt();
  		System.out.print("Ingrese su estatura en metros: ");
- 		estaturaM = scanner.nextDouble();
- 		iMC = pesoKg / Math.pow(estaturaM,2);
+ 		estaturaM = scanner.nextFloat();
+ 		iMC = (float)(pesoKg / Math.pow(estaturaM,2));
 
  		System.out.println("El IMC de " +nombre+ " es igual a: " +iMC);
  		scanner.close();
