@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/Programs/BoletoEstadio1/nbproject/private/
+/Programs/BoletoEstadio1/build/
+/Programs/ConvertidorTemp1/nbproject/private/
+/Programs/ConvertidorTemp1/build/
+/Programs/CuotaFija1/nbproject/private/
+/Programs/CuotaFija1/build/
+/Programs/ValidarOrden1/nbproject/private/
+/Programs/ValidarOrden1/build/
+/Programs/NumeroMayor1/nbproject/private/
+/Programs/NumeroMayor1/build/
+/Programs/DiasMes1/nbproject/private/
+/Programs/DiasMes1/build/
+/Programs/CalculoIMC3/nbproject/private/
+/Programs/CalculoIMC3/build/
+/Programs/Bisiesto1/nbproject/private/
+/Programs/Bisiesto1/build/
+/Programs/BoletoAutobus1/nbproject/private/
+/Programs/BoletoAutobus1/build/
