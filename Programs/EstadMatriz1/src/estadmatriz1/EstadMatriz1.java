@@ -7,16 +7,14 @@ public class EstadMatriz1 {
         int sumaPares, sumaImpares, sumaTotal, sumaUltimaColumna;
         int contadorPares, contadorImpares, totalElementos;
         float promedioPares, promedioImpares, promedioTotal;
-        // Pedir al usuario las dimensiones de la matriz
+
         System.out.print("Ingrese el número de filas: ");
         filas = scanner.nextByte();
         System.out.print("Ingrese el número de columnas: ");
         columnas = scanner.nextByte();
         
-        // Crear la matriz
         int[][] matriz = new int[filas][columnas];
 
-        // Llenar la matriz con valores ingresados por el usuario
         System.out.println("Ingrese los elementos de la matriz:");
         System.out.println("===================================");
         for (int i = 0; i < filas; i++) {
@@ -25,7 +23,6 @@ public class EstadMatriz1 {
                 matriz[i][j] = scanner.nextInt();
             }
         }
-        // Calcular los promedios y la suma
         sumaPares = 0;
         sumaImpares = 0;
         sumaTotal = 0;
@@ -47,8 +44,6 @@ public class EstadMatriz1 {
                     sumaImpares += numero;
                     contadorImpares++;
                 }
-
-                // Sumar los elementos de la última columna
                 if (j == columnas - 1) {
                     sumaUltimaColumna += numero;
                 }
