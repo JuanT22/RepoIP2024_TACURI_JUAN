@@ -21,6 +21,7 @@ public class DecimalABinario1 {
             binario = residuo + binario; 
             naux /= 2;
         }
-        System.out.println("El número representado en el sistema binario es " + binario);
+        System.out.println("El número representado en el sistema binario es " 
+                + binario);
     }
 }

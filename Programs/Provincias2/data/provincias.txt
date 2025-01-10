@@ -1,0 +1,24 @@
+Azuay,15
+Bolívar,7
+Cañar,7
+Carchi,6
+Chimborazo,10
+Cotopaxi,7
+El Oro,14
+Esmeraldas,7
+Galápagos,3
+Guayas,25
+Imbabura,6
+Loja,16
+Los Ríos,13
+Manabí,22
+Morona Santiago,12
+Napo,5
+Orellana,4
+Pastaza,4
+Pichincha,8
+Santa Elena,3
+Santo Domingo de los Tsáchilas,2
+Sucumbíos,7
+Tungurahua,9
+Zamora Chinchipe,9
