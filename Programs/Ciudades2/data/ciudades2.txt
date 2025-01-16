@@ -1,0 +1,4 @@
+Quito,1000,Ecuador
+Buenos Aires,3000,Argentina
+Lima,4000,Peru
+Bogota,5000,Colombia
