@@ -1,0 +1,5 @@
+Nombre;Stock;Precio
+iPhone 15 Pro;48;1299.99
+AirPods Pro 2;100;249.99
+MacBook Pro 14;30;1999.99
+Apple Watch S8;75;399.99

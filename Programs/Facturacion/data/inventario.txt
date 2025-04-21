@@ -1,0 +1,11 @@
+Nombre;Stock;Precio
+iPhone 15 Pro;13;1299.99
+iPhone 15;28;999.99
+iPhone 14;34;899.99
+iPad Pro 12.9;15;1099.99
+iPad Air;25;599.99
+iPad Mini;18;499.99
+MacBook Pro 16;12;2499.99
+MacBook Pro 14;28;1999.99
+MacBook Air M2;27;1199.992
+Rreloj;2;29.99

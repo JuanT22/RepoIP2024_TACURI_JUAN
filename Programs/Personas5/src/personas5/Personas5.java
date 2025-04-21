@@ -5,7 +5,6 @@ import java.util.*;
 
 public class Personas5 {
 
-    // Excepción personalizada para edades negativas
     public static class EdadNegativaException extends Exception {
         public EdadNegativaException(String message) {
             super(message);
@@ -26,11 +25,9 @@ public class Personas5 {
                 nombres.add(persona[0]);
                 generos.add(persona[1]);
 
-                // Capturar posible NumberFormatException al convertir la edad
                 try {
                     int edad = Integer.parseInt(persona[2]); 
                     if (edad < 0) {
-                        // Lanzar la excepción personalizada si la edad es negativa
                         throw new EdadNegativaException("Edad negativa encontrada: " + edad); 
                     }
                     edades.add(edad); 

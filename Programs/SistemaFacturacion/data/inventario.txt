@@ -1,0 +1,5 @@
+Paracetamol;100;1.50
+Ibuprofeno;50;2.00
+Jarabe para la tos;30;5.75
+Vitamina C;200;0.75
+Termómetro digital;15;12.99

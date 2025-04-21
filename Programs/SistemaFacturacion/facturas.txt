@@ -1,0 +1,6 @@
+=== FACTURA FACT-00001 ===
+Fecha: 29/01/2025
+Cliente: Juan
+RUC/CI: 1900831320
+2 x Vitamina C @ 0.75
+=========================
